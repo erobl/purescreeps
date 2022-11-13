@@ -31,6 +31,6 @@
     "@purescript/maybe": "^3.0.0",
     "@purescript/partial": "^1.2.0",
     "@purescript/unsafe-coerce": "^3.0.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   }
 }
